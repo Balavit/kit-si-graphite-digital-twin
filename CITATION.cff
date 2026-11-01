@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: If you use this code, please cite the manuscript and the KIT dataset (DOI 10.35097/1969).
-title: kit-si-graphite-digital-twin
-authors:
-  - family-names: '[Author]'
-    given-names: '[Name]'
-license: MIT
-version: 0.1.0
-date-released: '2026-10-18'
